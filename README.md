@@ -25,7 +25,6 @@ seid keys add walletName
 ```
 seid keys add walletName --recover
 ```
-# Cüzdanımızı oluşturduktan sonra faucet'ı kullanalım: 
 
 # Our node was matching when buying tokens, for check:
 ```
